@@ -73,13 +73,16 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thamodharangm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thamodharan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamodharangm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thamodharangm&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thamodharangm&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thamodharangm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Thamodharangm&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
+
 
 ---
 
