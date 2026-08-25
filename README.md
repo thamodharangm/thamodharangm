@@ -124,17 +124,11 @@ const thamodharan = {
 
 ### 📊 GitHub Activity & Insights
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thamodharangm&theme=tokyonight" width="49%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thamodharangm&theme=tokyonight" width="49%" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thamodharangm&theme=tokyonight" width="49%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thamodharangm&theme=tokyonight" width="49%" alt="Most Commit Language" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Thamodharangm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thamodharangm&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
 ---
 
