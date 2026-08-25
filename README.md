@@ -44,7 +44,13 @@ const thamodharan = {
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,redux,git,github,postman,vscode,mysql,supabase,firebase,vercel,render" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="Tech Tier 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,tailwind,redux" alt="Tech Tier 2" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" alt="Tech Tier 3" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,figma,docker" alt="Tech Tier 4" />
 </div>
 
 <br/>
