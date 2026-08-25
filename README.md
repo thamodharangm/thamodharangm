@@ -122,18 +122,18 @@ const thamodharan = {
 
 ---
 
-### 📊 GitHub Activity & Featured Repositories
+### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thamodharangm&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thamodharangm&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thamodharangm&theme=tokyonight" width="49%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thamodharangm&theme=tokyonight" width="49%" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thamodharangm&repo=catchify&theme=tokyonight&hide_border=true" width="49%" alt="Catchify Repo" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thamodharangm&repo=Portfolio2026&theme=tokyonight&hide_border=true" width="49%" alt="Portfolio Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thamodharangm&theme=tokyonight" width="49%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thamodharangm&theme=tokyonight" width="49%" alt="Most Commit Language" />
 </div>
 
 ---
