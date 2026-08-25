@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,20&height=180&section=header&text=Thamodharan%20Ganesan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20%7C%20React%20Native%20Engineer&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,20&height=180&section=header&text=Thamodharan%20Ganesan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20%7C%20React%20Native%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://thamodharangm.github.io/Portfolio">
@@ -11,7 +11,7 @@
     <a href="https://linkedin.com/in/thamodharangp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://thamodharangm.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:thamodharangp@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://github.com/Thamodharangm?tab=repositories"><img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Thamodharangm&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
@@ -64,7 +64,7 @@ const thamodharan = {
 
 ---
 
-### 🚀 Featured Projects & Client Work
+### 🚀 Featured Projects & Production Systems
 
 <table>
   <tr>
@@ -116,23 +116,18 @@ const thamodharan = {
 
 ---
 
-### 📊 GitHub Activity & Insights
+### 📊 GitHub Activity & Featured Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thamodharangm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thamodharangm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thamodharangm&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thamodharangm&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thamodharangm&theme=tokyonight&hide_border=true&background=0D1117" width="97%" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thamodharangm&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="97%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thamodharangm&repo=catchify&theme=tokyonight&hide_border=true" width="49%" alt="Catchify Repo" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Thamodharangm&repo=Portfolio2026&theme=tokyonight&hide_border=true" width="49%" alt="Portfolio Repo" />
 </div>
 
 ---
@@ -155,5 +150,5 @@ const thamodharan = {
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,20&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
